@@ -12,11 +12,11 @@ The only requirement for attending this workshop is that you will need to bring 
 
 ### Agenda:
 
-|18:30 | Welcome|
-|19:00 | Introduction and General concepts|
-|19:30 | How to Build a Shiny App – Demo|
-|20:15 | Hands-on Exercise - (Optional)|
-|20:30 | Networking + Pizza|
+18:30 Welcome
+19:00 Introduction and General concepts
+19:30 How to Build a Shiny App – Demo
+20:15 Hands-on Exercise - (Optional)
+20:30 Networking + Pizza
 
 
 For the Hands-on exercise you need to have R and RStudio installed in your machines.
