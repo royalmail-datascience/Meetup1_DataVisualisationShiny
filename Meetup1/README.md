@@ -22,6 +22,7 @@ The only requirement for attending this workshop is that you will need to bring 
 
 20:30 Networking + Pizza
 
+====
 
 For the Hands-on exercise you need to have R and RStudio installed in your machines.
 You can install R [here](http://cran.us.r-project.org/) and then RStudio [here](https://www.rstudio.com/products/rstudio/download/)
