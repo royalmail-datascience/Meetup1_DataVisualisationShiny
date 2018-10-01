@@ -1,6 +1,5 @@
 # Royal Mail Data Science 
 
-=======
 
 Royal Mail is launching a series of free events led by our award-winning Data Science team with the aim of getting more people to consider Data Science as a career. 
 
@@ -15,9 +14,14 @@ The aim of this series of events (Workshops, Meetups, Hackathons, etc) is to act
 
 We want to see more diversity at all levels:
   > coders
+
   > developers
+
   > speakers
+  
   > leaders
+
+
 
 
 ### Upcoming events
