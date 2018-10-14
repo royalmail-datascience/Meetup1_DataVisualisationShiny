@@ -2,7 +2,7 @@ libraries = c("shiny", "shinythemes", "ggplot2", "plyr", "RColorBrewer")
 
 # uncomment these two lines when running for the first time
 # install.packages(libraries)
-# lapply(libraries, require, character.only = TRUE, warn.conflicts = FALSE, quietly = TRUE)
+lapply(libraries, require, character.only = TRUE, warn.conflicts = FALSE, quietly = TRUE)
 
 data = read.csv("data/BestAlbums.csv")
 
