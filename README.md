@@ -22,10 +22,8 @@ The only requirement for attending this workshop is that you will need to bring 
 
 20:30 Networking + Pizza
 
-====
+
+### Prereq  uesites and Requirements:
 
 For the Hands-on exercise you need to have R and RStudio installed in your machines.
 You can install R [here](http://cran.us.r-project.org/) and then RStudio [here](https://www.rstudio.com/products/rstudio/download/)
-
-
-The data used in this workshop from [here] (https://www.kaggle.com/notgibs/500-greatest-albums-of-all-time-rolling-stone)
